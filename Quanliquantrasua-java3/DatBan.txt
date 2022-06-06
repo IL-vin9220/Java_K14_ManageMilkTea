@@ -1,0 +1,6 @@
+A01;Có Khách;5;Trà Sữa;not;30000
+A02;Trống;0;not;not;not
+B01;Có Khách;6;Trà Sữa Nướng;Hướng Dương;10000
+B02;Trống;0;not;not;not
+C01;Trống;0;not;not;not
+C02;Có Khách;5;Trà Tắc;not;15000

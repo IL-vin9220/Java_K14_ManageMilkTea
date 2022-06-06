@@ -1,0 +1,59 @@
+MH01,Trà sữa kem cheese,30000,35000,Đồng, Ngon
+MH02,Trà sữa trân châu đường đen,25000,30000,Đồng, Ngon
+MH02,Trà sữa trứng nướng trân châu,25000,30000,Đồng, Ngon
+MH03,Trà sữa kem trứng,30000,35000,Đồng, Ngon
+MH04,Trà sữa socola(matcha) cafe,30000,35000,Đồng, Ngon
+MH05,Trà sữa kem dừa nướng,30000,35000,Đồng, Ngon
+MH06,Trà sữa kem matcha,30000,35000,Đồng, Ngon
+MH07,Trà sữa kem socola,30000,35000,Đồng, Ngon
+MH08,Trà sữa kem mix,30000,35000,Đồng, Ngon
+MH09,Trà sữa hokaido,30000,35000,Đồng, Ngon
+MH10,Hồng trà sữa,25000,30000,Đồng, Ngon
+MH11,Trà sữa đào,25000,30000,Đồng, Ngon
+MH12,Trà nhài sữa,25000,30000,Đồng, Ngon
+MH13,Trân châu trắng,5000,0,Đồng, Ngon
+MH14,Trân châu đen,5000,0,Đồng, Ngon
+MH15,Nha đam,5000,0,Đồng, Ngon
+MH16,Cá heo,5000,0,Đồng, Ngon
+MH17,kem trứng,7000,0,Đồng, Ngon
+MH18,kem cheese,10000,0,Đồng, Ngon
+MH19,Nắng vàng biển xanh,25000,30000,Đồng, Ngon
+MH20,Hoa hồng xanh,30000,35000,Đồng, Ngon
+MH21,kiwi thanh long đỏ,25000,30000,Đồng, Ngon
+MH22,Dâu soda dứa,25000,30000,Đồng, Ngon
+MH23,Ép cam,25000,30000,Đồng, Ngon
+MH24,Táo,25000,30000,Đồng, Ngon
+MH25,Cam táo dứa,30000,35000,Đồng, Ngon
+MH26,Dứa,20000,25000,Đồng, Ngon
+MH27,Dưa hấu,20000,25000,Đồng, Ngon
+MH28,Ổi,25000,30000,Đồng, Ngon
+MH29,Cần tây mix táo,25000,30000,Đồng, Ngon
+MH29,Cân tây mix dứa,25000,30000,Đồng, Ngon
+MH30,Cà phê nâu đá,25000,30000,Đồng, Ngon
+MH31,Cà phê đen đá,20000,25000,Đồng, Ngon
+MH31,Bạc sửu,25000,30000,Đồng, Ngon
+MH32,Cà phê lắc sữa,30000,35000,Đồng, Ngon
+MH33,Cà phê cốt dừa,30000,35000,Đồng, Ngon
+MH34,Blue cà phê hàn,30000,35000,Đồng, Ngon
+MH35,Matcha cốt dừa,25000,30000,Đồng, Ngon
+MH36,khoai môn cốt dừa,25000,30000,Đồng, Ngon
+MH37,Cacao cốt dừa,25000,30000,Đồng, Ngon
+MH38,Cà phê cốt dừa,30000,35000,Đồng, Ngon
+MH39,Trà chanh,10000,15000,Đồng, Ngon
+MH40,Trà tắc,10000,15000,Đồng, Ngon
+MH41,Trà tắc mật ong,15000,20000,Đồng, Ngon
+MH42,trà tắc nha đam,15000,20000,Đồng, Ngon
+MH43,Trà táo,20000,25000,Đồng, Ngon
+MH44,Trà đào,20000,25000,Đồng, Ngon
+MH45,Trà cam đào,25000,30000,Đồng, Ngon
+MH46,Trà đào cam xả,25000,30000,Đồng, Ngon
+MH47,Trà vải,20000,25000,Đồng, Ngon
+MH48,Trà quất lắc sữa,25000,30000,Đồng, Ngon
+MH49,Trà chanh leo,25000,30000,Đồng, Ngon
+MH50,Trà dâu,20000,25000,Đồng, Ngon
+MH51,Trà hoa quả nhiệt đới,25000,30000,Đồng, Ngon
+MH52,Trà tắc bặc hà,25000,30000,Đồng, Ngon
+MH53,Trà dưa hấu,25000,30000,Đồng, Ngon
+MH54,Trà cam,25000,30000,Đồng, Ngon
+MH55,Chanh tuyết,25000,30000,Đồng, Ngon
+MH56,Chanh leo,25000,30000,Đồng, Ngon

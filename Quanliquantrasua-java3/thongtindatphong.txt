@@ -1,0 +1,10 @@
+HD01; Trần Văn Lịch ; 089656532; Trà sữa đường đen ;Bánh cookies; 180000
+HD02; Hoàng Quốc Việt ; 0367485985; Trà Chanh ;Bánh cookies; 120000
+HD03; Nguyễn Trung Dũng ; 089656532; Cafe đen ;Hướng Dương; 130000
+HD04; Nguyễn Văn Quân ; 0354129863; Cafe nâu ;Bò Khô; 200000
+HD05; Trần Văn Anh; 0364895125; Cafe nâu ;Gà khô; 800000
+HD06; Bùi Quang Minh ; 0365426894; Cafe nâu ;Hạt Dưa; 500000
+HD07; Trần Minh Nghĩa ; 088756214; Cafe nâu ;Bò Khô; 200000
+HD08;Nguyễn Văn Tính;0352478512;Cafe nâu;Hướng Dương;900000
+HD09;Hồ Chính Đại;0956253641;Cafe nâu;Bánh trứng;700000
+HD010; Phan Văn Thuận ; 0962456999; Cafe nâu ;Bò Khô; 600000
