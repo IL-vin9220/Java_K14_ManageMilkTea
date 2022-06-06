@@ -38,6 +38,8 @@ public class NguoiDung {
         this.MaNhanVien = MaNhanVien;
     }
 
+    
+    
     public String getTenNhanVien() {
         return TenNhanVien;
     }
